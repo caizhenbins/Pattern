@@ -15,5 +15,4 @@ public class UserChooseCache {
     private void init() {
         //TODO handle some way
     }
-
 }
